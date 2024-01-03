@@ -1,0 +1,2267 @@
+<table class="sortable c_17 table jquery-tablesorter">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Title <br> (Short Title)</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Description</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Skill Modifications</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Incapable of</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Civil</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Raider</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Slave</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Trader</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Traveler</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Tribal
+</th></tr></thead><tbody>
+<tr>
+<th>Naturalist<br>(Naturalist)
+</th>
+<td>Mitch grew up on a backwater planet with minimal education. He had to hunt and grow food to survive.
+<p>[PAWN_possessive] family's home was frequently raided for food by scavengers. This made Mitch very suspicious and slow to trust anyone he doesn't know.
+</p>
+</td>
+<td>Plants: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Intellectual<br>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Navy pathfinder<br>(Pathfinder)
+</th>
+<td>[PAWN_nameDef] was raised and trained by a group of military explorers dedicated to charting pathways through deep space and on remote planets.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Nerd<br>(Nerd)
+</th>
+<td>[PAWN_nameDef] was curious about everything. While other kids played tag in the suburbs of their industrial city, [PAWN_nameDef] read every book he could find about technology, robots, and weapons - whatever looked coolest.
+<p>His strong French accent kept him from making real friends.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+1</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>New age duelist<br>(Duelist)
+</th>
+<td>[PAWN_nameDef] was fascinated with combat. [PAWN_possessive] parents traveled often, so [PAWN_pronoun] was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.
+<p>A polite child, most fighters accepted [PAWN_possessive] requests for training - but moving around often without finishing a tutelage made [PAWN_objective] lazy.
+</p>
+</td>
+<td>Shooting: <span style="color:firebrick; font-weight:bold">−2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+4</span><br>Animals: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Noble ward<br>(Ward)
+</th>
+<td>[PAWN_nameDef] was adopted by a prominent noble family after being left on their doorstep by [PAWN_possessive] mother.
+<p>[PAWN_pronoun] quickly learned secrets that passed between the nobles like cheap wine - of worlds beyond her own, languages, cultures and technologies both new and old.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Shooting: <span style="color:firebrick; font-weight:bold">−1</span><br>Melee: <span style="color:firebrick; font-weight:bold">−2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Dumb labor<br>Firefighting<br>Plant work<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Officer cadet<br>(Cadet)
+</th>
+<td>From a young age, Bashkire trained to be a leader of men. He enrolled in the Vanu Defense College when he was a boy and became proficient with a range of weapons and survival techniques.
+</td>
+<td>Plants: <span style="color:forestgreen; font-weight:bold">+1</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+1</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Offworld recruit<br>(Recruit)
+</th>
+<td>[PAWN_nameDef] was born an raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.
+<p>One of the best, [PAWN_nameDef] was eventually chose to enter the orbital-deployment shock troop corps.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Optimistic child<br>(Optimistic)
+</th>
+<td>Kees was blessed with loving parents and a pleasant midworld life. He was an  optimistic and sociable kid who loved making friends and listening to their stories. His imagination would run wild with ideas and questions.
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Orphan of war<br>(Orphan)
+</th>
+<td>[PAWN_nameDef] lost his family and home early in life. His life became emotionally hollow, but his painful memories drove him to survive.
+<p>[PAWN_pronoun] took several jobs, but never achieved more than a basic education.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+3</span><br>Intellectual: <span style="color:firebrick; font-weight:bold">−3</span><br>Mining: <span style="color:forestgreen; font-weight:bold">+3</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Orphan<br>(Orphan)
+</th>
+<td>Born in a brothel on a harsh world, [PAWN_nameDef] never really had a childhood. [PAWN_pronoun] did odd jobs to survive, and became distant from others.
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Social<br>Animals
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Orphan<br>(Orphan)
+</th>
+<td>Born on a deep space station, [PAWN_nameDef] was orphaned at a young age. In the orphanage, he stood up for the weaker kids and fought off the bullies.
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Crafting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Orphan<br>(Orphan)
+</th>
+<td>Left alone in the world without parents, Kevin did the best he could to adapt.
+<p>Having to take care both of himself and younger kids at the orphanage, he learned a lot about humans and how to interact with them.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+6</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pampered<br>(Pampered)
+</th>
+<td>Born on a decadent glitterworld, [PAWN_nameDef] was given every expensive toy.
+<p>This pampered lifestyle caused [PAWN_objective] to miss many basic life lessons. [PAWN_pronoun] developed a special aversion to cooking, and always ordered the staff to do the kitchen work.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:firebrick; font-weight:bold">−3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Cooking
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pet keeper<br>(Pet keeper)
+</th>
+<td>[PAWN_nameDef] spent most of [PAWN_possessive] childhood tending the animals [PAWN_pronoun] had bought or rescued.
+<p>[PAWN_pronoun] saw beauty in natural things more than fabricated objects, and chose the company of [PAWN_possessive] animals over that of [PAWN_possessive] peers.
+</p>
+</td>
+<td>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+6</span>
+</td>
+<td>Social<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Philosopher<br>(Thinker)
+</th>
+<td>[PAWN_nameDef] was a student on a glitterworld. [PAWN_pronoun] had a hard time in school, since the other kids thought [PAWN_objective] rather strange.
+<p>[PAWN_pronoun] always maintained a distance from these events, being continuously surprised by the many interesting and awkward ways life can go.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Violent
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pickpocket<br>(Pickpocket)
+</th>
+<td>Orphaned and abandoned on the tumultuous streets of his polluted, teeming homeworld, [PAWN_nameDef] survived by deft hand and fleet foot. A natural born thief and trickster, [PAWN_pronoun] rose to prominence early, running the notorious and violent urchin gang 'Doomben Rats'.
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Cleaning<br>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pickpocket<br>(Thief)
+</th>
+<td>[PAWN_nameDef] witnessed [PAWN_possessive] parents' murder at a young age. With no guidance, [PAWN_pronoun] had to fend for [PAWN_objective]self any way possible. Joining a small group of misfits [PAWN_pronoun] did whatever was necessary to survive.
+</td>
+<td>Intellectual: <span style="color:firebrick; font-weight:bold">−2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:firebrick; font-weight:bold">−1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pilot fan<br>(Pilot fan)
+</th>
+<td>[PAWN_nameDef]'s father was a starfighter pilot, and [PAWN_pronoun] always idolized the old man.
+<p>From a young age, [PAWN_pronoun] collected pilot memorabilia and studied pilot books, preparing to join the deep space navy and follow in [PAWN_possessive] father's footsteps.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pit gladiator<br>(Gladiator)
+</th>
+<td>[PAWN_nameDef] was enslaved as a child and forced to fight creatures and other people in an underground fighting arena.
+<p>[PAWN_pronoun] showed an affinity for the sport, and eventually bought his own freedom. However, his time in the pits never brought him much intellectual stimulation.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Intellectual
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pizza lover<br>(Pizza kid)
+</th>
+<td>[PAWN_nameDef] loved boomrat pizza intensely. Rarely eating anything else, he was prone to bad health and low oxygen uptake.
+<p>[PAWN_pronoun] loved bashing in the skulls of random creatures to see what was inside.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+5</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Caring
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Plague child<br>(Child)
+</th>
+<td>Born on a world wracked by plague, both of [PAWN_nameDef]'s parents were doctors.
+<p>[PAWN_nameDef] was raised in reverse-quarantine, under the Hippocratic oath. [PAWN_pronoun] experienced little social interaction. However, [PAWN_pronoun] gained a lot of medical experience assisting in treatments.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+1</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+5</span>
+</td>
+<td>Violent<br>Animals<br>Artistic<br>Cooking
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Plague prodigy<br>(Prodigy)
+</th>
+<td>[PAWN_nameDef]'s childhood was cut short when a mysterious plague hit his homeworld.
+<p>[PAWN_pronoun] watched his friends die, and his compassion for humanity died with them. In its place a new thirst for knowledge emerged.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>Caring<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Plague survivor<br>(Survivor)
+</th>
+<td>[PAWN_nameDef] watched as a mysterious plague spread through [PAWN_possessive] town, killing [PAWN_possessive] family and friends.
+<p>[PAWN_pronoun] learned some medicine from watching the plague doctors, but was mentally scarred by the ordeal.
+</p>
+</td>
+<td>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Poor kid<br>(Poor kid)
+</th>
+<td>Abandoned by his parents, [PAWN_nameDef] learned how to survive by himself before he was ten years old.
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Caring
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Power-mad scholar<br>(Scholar)
+</th>
+<td>"Knowledge is power." These words sparked something within [PAWN_nameDef], and came to form his core drive. When not entombed within libraries, [PAWN_pronoun] would take things apart to see first-hand how they worked, with little regard for the border between mechanical and organic.
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Privileged child<br>(Privileged)
+</th>
+<td>Born to an upper-class family, [PAWN_nameDef] grew up with all the best things - the best education, the best social contacts, and of course the best technology money could buy.
+<p>Unfortunately, living in such decadence left [PAWN_nameDef] rather spoiled when it came to labor.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Privileged prodigy<br>(Prodigy)
+</th>
+<td>[PAWN_nameDef] was recognized as gifted early in his glitterworld upbringing. Luckily, [PAWN_possessive] family was in a position to cultivate that genius through advanced education. [PAWN_possessive] training included science, leadership, and the arts.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Dumb labor<br>Violent<br>Hauling<br>Plant work<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Prodigal student<br>(Student)
+</th>
+<td>[PAWN_nameDef] was a faithful student, and was dedicated to learning anything and everything he could about humanity and its creations.
+<p>While [PAWN_pronoun] was shunned as a nerd, [PAWN_pronoun] didn't mind. [PAWN_pronoun] hoped for a brighter future.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Animals
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Professional gamer<br>(Pro gamer)
+</th>
+<td>[PAWN_nameDef] was obsessed with video games since his hands were big enough to grip a joystick.
+<p>[PAWN_pronoun] achieved middling finishes in several local tournaments during the 16-bit era. Nobody noticed when he retired early in his teenage years.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:firebrick; font-weight:bold">−3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Project subject<br>(Subject)
+</th>
+<td>[PAWN_nameDef] was picked by government agents for the mysterious "Frame Project".
+<p>Due to memory blockages, however, he remembers very little about this project or its true agenda - only that there were few survivors.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Psychology student<br>(Student)
+</th>
+<td>[PAWN_nameDef] researched new religions and traditions and often dreamt of distant stars.
+<p>His dreams prompted him to ask what lay beyond the lights in the sky.
+</p>
+</td>
+<td>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Violent
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Punk<br>(Punk)
+</th>
+<td>[PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings.
+</td>
+<td>Intellectual: <span style="color:firebrick; font-weight:bold">−2</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Pyro assistant<br>(Assistant)
+</th>
+<td>On an industrial world, [PAWN_nameDef] learned early that if [PAWN_pronoun] wanted to eat, [PAWN_pronoun] had to work. So work [PAWN_pronoun] did. Kids fit in places adults can't, and where [PAWN_pronoun] was from, the safety laws were quite flexible.
+<p>[PAWN_pronoun] was always a bit of a pyromaniac, and was banned from the kitchen after an unfortunate incident.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Cooking<br>Firefighting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Quiet nerd<br>(Nerd)
+</th>
+<td>[PAWN_nameDef] was raised by doting parents on a midworld. Instead of playing with other children, [PAWN_pronoun] read books voraciously.
+<p>[PAWN_pronoun] was not particularly rugged, and struggled with physical labor.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Ranger child<br>(Ranger kid)
+</th>
+<td>[PAWN_nameDef] was raised in a forest. [PAWN_possessive] father taught [PAWN_objective] to hunt and live off the land, so that [PAWN_pronoun] could live without the need of others when father died.
+<p>Accustomed to manual labor and with an intuitive mind, [PAWN_nameDef] could survive weeks alone.
+</p>
+</td>
+<td>Mining: <span style="color:firebrick; font-weight:bold">−2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Firefighting<br>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Rebel child<br>(Rebel)
+</th>
+<td>[PAWN_nameDef] was born under authoritarian rule. Despite intense oppression from family and community, she never gave up fighting for her dignity and her freedom.
+<p>She was often put into hopeless situations where even family would try to terrorize her into propriety. She learned to trust no one.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Caring
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Rebel slave<br>(Rebel)
+</th>
+<td>[PAWN_nameDef] was born into corporate slavery and raised to perform menial tasks for minimum pay. [PAWN_pronoun] was just another cog in the machine.
+<p>[PAWN_nameDef] found his freedom by joining a rebel organization whose goal was to break free from their corporate masters.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+1</span><br>Plants: <span style="color:forestgreen; font-weight:bold">+1</span><br>Intellectual: <span style="color:firebrick; font-weight:bold">−2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Rebel student<br>(Student)
+</th>
+<td>[PAWN_nameDef] grew up in a modest but privileged family who encouraged him to play chess and shoot skeet at a young age.
+<p>As a bored student, [PAWN_pronoun] found joy in challenging his teachers about the contradictions between his planet's official values and their government's policies.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Rebel writer<br>(Writer)
+</th>
+<td>Early on, [PAWN_nameDef] developed a talent for writing. [PAWN_pronoun] was soon writing a popular online journal - anonymously, to hide [PAWN_possessive] age - on topics ranging from bioethics to political theory and xenosociology.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+7</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Reclusive prodigy<br>(Prodigy)
+</th>
+<td>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
+<p>Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Social<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Re-educated youth<br>(Reeducated)
+</th>
+<td>[PAWN_nameDef] lived on a midworld where the government cared about the youth.
+<p>[PAWN_pronoun] was one of the many children who were taken from their parents and forced into the new education programs.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Rich boy<br>(Rich boy)
+</th>
+<td>[PAWN_nameDef] grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.
+<p>[PAWN_pronoun] was always told by his father that 'those peasants just want your money'. So, [PAWN_pronoun] spent most of his time alone, or fighting other kids.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Caring<br>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Ritual child<br>(Sacrifice)
+</th>
+<td>Born with a special mark on [PAWN_possessive] neck, [PAWN_nameDef]'s tribe chose to sacrifice [PAWN_objective] in a blood ritual. They left [PAWN_objective] in the forest to die. A pack of arctic wolves found and adopted [PAWN_objective].
+<p>Over time, [PAWN_pronoun] learned to make tools to hunt with the pack.
+</p>
+</td>
+<td>Intellectual: <span style="color:firebrick; font-weight:bold">−3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Scavenger<br>(Scavenger)
+</th>
+<td>[PAWN_nameDef] grew up in one of the few remaining cities on a world ravaged by nuclear war.
+<p>[PAWN_pronoun] learned to survive on [PAWN_possessive] own in this post-apocalyptic wasteland by scavenging for technology and supplies.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Intellectual<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Schoolyard outcast<br>(Outcast)
+</th>
+<td>[PAWN_nameDef] had a modest but proper upbringing. Despite a good family background and plenty of support, [PAWN_pronoun] struggled to make friends and was often bullied. [PAWN_pronoun] learned to work or play alone, and avoided socializing to avoid conflict.
+<p>When conflict did arise, [PAWN_nameDef] would retaliate violently.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Science prodigy<br>(Prodigy)
+</th>
+<td>[PAWN_nameDef] was top of her class in chemistry, physics, exobiology, astronomy and opera.
+<p>An unfortunate lab accident left her with a deathly fear of fire.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Violent<br>Firefighting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Scout<br>(Scout)
+</th>
+<td>Nate loved being outdoors. His parents enrolled him in a program that taught military scouting skills. He thrived when he was left alone in the wilderness.
+<p>Due to this upbringing, however, [PAWN_nameDef] did not learn the basic technological skills that are taken for granted by many others.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+1</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Intellectual<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Scrounger<br>(Scrounger)
+</th>
+<td>[PAWN_nameDef] would dive into junk mounds in search for valuables and items of interest.
+<p>[PAWN_pronoun] was never bothered by the stink, or dangers that could leave [PAWN_objective] wounded for weeks.
+</p>
+</td>
+<td>Mining: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Sentimental child<br>(Nice kid)
+</th>
+<td>[PAWN_nameDef] was a nice child. When anybody had a problem, [PAWN_pronoun] tried to fix it. But, being a child, [PAWN_pronoun] did not always succeed. This hurt his sensitive soul.
+<p>[PAWN_pronoun] dreamed of being a soldier who fights raiders and aliens.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Ship child<br>(Ship child)
+</th>
+<td>[PAWN_nameDef]'s family were space traders. One day, [PAWN_nameDef]'s cryptosleep pod failed in transit. [PAWN_pronoun] had to spend years awake on the ship as the other slept.
+<p>[PAWN_pronoun] filled [PAWN_possessive] days creating beautiful contraptions from the ship's cargo - but [PAWN_pronoun] didn't learn a lot of basic planetary living skills.
+</p>
+</td>
+<td>Melee: <span style="color:firebrick; font-weight:bold">−3</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+4</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Animals<br>Cooking<br>Plant work<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Ship technician<br>(Technician)
+</th>
+<td>[PAWN_nameDef] was an apprentice technician on trade ships plying their routes between the stations and planets of her home system. In this job, she learned to fix and improve many machines.
+<p>Sometimes, her ship was assigned to short exploratory jaunts into dangerous regions of space.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+3</span><br>Plants: <span style="color:firebrick; font-weight:bold">−3</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Shooting coma<br>(Coma child)
+</th>
+<td>Nebulys fell into a coma at a young age and spent years dreaming about shooting. When he awoke, he was useless at most tasks - but he could aim pretty well.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+8</span>
+</td>
+<td>Intellectual<br>Dumb labor<br>Skilled labor<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Sickly liar<br>(Liar)
+</th>
+<td>It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.
+<p>Using his quick wit and silver tongue, Lynn was able to get out of almost any situation - most of the time at the cost others around him.
+</p>
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−2</span><br>Shooting: <span style="color:firebrick; font-weight:bold">−2</span><br>Melee: <span style="color:firebrick; font-weight:bold">−2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+6</span>
+</td>
+<td>Caring
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Slave farmer<br>(Slave)
+</th>
+<td>Abandoned as a little girl, [PAWN_nameDef] was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.
+</td>
+<td>Plants: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Violent
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Small town kid<br>(Town kid)
+</th>
+<td>[PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.
+<p>[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life.
+</p>
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−3</span><br>Plants: <span style="color:forestgreen; font-weight:bold">+3</span><br>Mining: <span style="color:firebrick; font-weight:bold">−3</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Violent
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Social pariah<br>(Pariah)
+</th>
+<td>[PAWN_nameDef]'s family never fit in. They were oddballs who couldn't conform to their regimented society. Because of this, they were forced into cryptosleep and sent to different rimworlds, never to see each other again.
+</td>
+<td>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Soldier experiment<br>(Experiment)
+</th>
+<td>[PAWN_nameDef] grew up believing [PAWN_pronoun] was a normal, albeit slightly sheltered child.
+<p>In truth, [PAWN_pronoun] was part of an elaborate experiment. Researchers were conditioning [PAWN_objective] using social interactions and mechanite injections to try to produce an elite soldier.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Cooking<br>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Sole survivor<br>(Survivor)
+</th>
+<td>Hawke's entire tribe was wiped out by a mysterious disease.
+<p>Found alone and adopted by another band, he never became close with the other tribe members. He preferred to stay away from his new home, wandering the woods and tending the animals.
+</p>
+</td>
+<td>Plants: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Son of a huntress<br>(Hunter)
+</th>
+<td>In the mountains of the planet Ticonderoga, Jon was raised by his tribal mother. She taught him survival skills - trapping, tracking, shooting, skinning, cooking and healing.
+<p>His departed father had left behind an old bolt-action rifle, and Jon practiced with it every chance he got.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Intellectual
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Space cadet<br>(Cadet)
+</th>
+<td>Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on his home planet, Jake threw down his hoe and cattle prod to took up arms for the crown.
+<p>He served on the interplanetary super-destroyer HMS Thunder-Child.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Space fanboy<br>(Fanboy)
+</th>
+<td>[PAWN_nameDef] dreamed of space travel. He built his own pretend spaceship from an old police box and went to see the great unknown.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Space nerd<br>(Space nerd)
+</th>
+<td>[PAWN_nameDef] just wanted to be cool like [PAWN_possessive] favorite superhero All-Might. [PAWN_pronoun] dreamed of going on space adventures and exploring new worlds. [PAWN_pronoun] also dreamed of chocolate... space chocolate.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Space smuggler<br>(Smuggler)
+</th>
+<td>Tater's parents used him to help smuggle contraband between a cluster of rim worlds.
+<p>Aided by his small size, Tater became very adept at carrying out his parents' missions, learning weaponry, negotiations, and most of all smuggling.
+</p>
+</td>
+<td>Plants: <span style="color:firebrick; font-weight:bold">−2</span><br>Intellectual: <span style="color:firebrick; font-weight:bold">−2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Spacer orphan<br>(Orphan)
+</th>
+<td>Born among stars to a spacefaring family, the [PAWN_nameDef] was the only survivor when [PAWN_possessive] family's ship was destroyed.
+<p>[PAWN_pronoun] was forced to find a way to survive, and seek the joy of knowing another family.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+4</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Speeder racer<br>(Racer)
+</th>
+<td>[PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.
+<p>[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Spoiled brat<br>(Brat)
+</th>
+<td>Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.
+<p>[PAWN_pronoun] was expected to become one of the best doctors in the world.
+</p>
+</td>
+<td>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Intellectual<br>Skilled labor<br>Social<br>Cooking
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Spoiled child<br>(Spoiled)
+</th>
+<td>[PAWN_nameDef] grew up the child of an industrious colony manager. In this position, most manual and dangerous tasks were forbidden by [PAWN_possessive] parents, but on the rim everyone has to dirty their hands.
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−2</span><br>Plants: <span style="color:forestgreen; font-weight:bold">+2</span><br>Mining: <span style="color:firebrick; font-weight:bold">−2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Firefighting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Spoiled child<br>(Spoiled)
+</th>
+<td>[PAWN_nameDef] was the child of an industrious space engineer. [PAWN_possessive] parents forbade most manual and dangerous tasks, so [PAWN_pronoun] learned art and music instead.
+<p>[PAWN_pronoun] loved animals, but [PAWN_possessive] parents never let [PAWN_objective] have a pet - though [PAWN_pronoun] played with other people's pets a lot.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Stableboy<br>(Stableboy)
+</th>
+<td>[PAWN_nameDef] was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
+<p>By the time [PAWN_pronoun] was exiting childhood, [PAWN_nameDef] had saved up enough money to pay a space trader to take [PAWN_objective] offworld.
+</p>
+</td>
+<td>Mining: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Star squire<br>(Squire)
+</th>
+<td>Born on a medieval world, [PAWN_nameDef]'s first memory is of gazing up into the night's sky.
+<p>Ever since, [PAWN_pronoun] dreamed of squiring for a knight amidst the star-filled heavens. [PAWN_possessive] focus on that vision left [PAWN_objective] somewhat single-minded.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Animals<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Starforce cadet<br>(Cadet)
+</th>
+<td>Raised on Amen-Ti, glitterworld capital of the Star Empire, Sam Wissa had an easy childhood.
+<p>As a youth, Sam decided that joining the Starforce would be his way of giving back to the Empire.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Mining: <span style="color:firebrick; font-weight:bold">−3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Station whelp<br>(Whelp)
+</th>
+<td>[PAWN_nameDef] spent his childhood as a penniless orphan living on a space station. He managed to scrape by doing filthy jobs and stealing. He became so violent due to poor treatment by his “betters” that he was banished from the station, just to be picked up by space pirates.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+5</span>
+</td>
+<td>Caring<br>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Steamworld tinker<br>(Tinker)
+</th>
+<td>In the slums of a steamworld, [PAWN_nameDef] developed a fascination with machines and contraptions. [PAWN_pronoun] found [PAWN_pronoun] preferred their company to that of other people.
+<p>[PAWN_possessive] remarkable dexterity earned [PAWN_objective] a steady stream of pocket change, and [PAWN_pronoun] spent every penny on spare parts and tools to play with.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Straggler<br>(Straggler)
+</th>
+<td>Despite being blessed with parental love, [PAWN_nameDef] hardly knew his parents.
+<p>[PAWN_pronoun] was frequently left to his own devices which meant more time devoted to exploring his interests…and getting into trouble.
+</p>
+</td>
+<td>Intellectual: <span style="color:firebrick; font-weight:bold">−3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Caring<br>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street child<br>(Street)
+</th>
+<td>[PAWN_nameDef]'s drug addict mother died, leaving [PAWN_objective] an orphan at a young age. To stay alive, [PAWN_pronoun] resorted to theft, and when necessary, prostitution. When [PAWN_nameDef] was caught stealing from a church, the priestess saw a wounded but smart child, and took [PAWN_objective] in to give [PAWN_objective] a second chance at life.
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street kid<br>(Street kid)
+</th>
+<td>Growing up on the streets of the a desert planet, [PAWN_nameDef]'s his only friend was a dog named Rest. The pair scraped by, finding just enough food to survive.
+<p>When [PAWN_pronoun] was 13 years old, an interplanetary criminal group took [PAWN_objective] under their wing.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street peddler<br>(Peddler)
+</th>
+<td>Growing up on an industrial midworld where robberies and muggings weren't uncommon, [PAWN_nameDef] helped support his family by making small trinkets and novelties to sell to passers-by.
+<p>[PAWN_pronoun] learned early on that it wasn't always what [PAWN_pronoun] knew, but who [PAWN_pronoun] knew that would get [PAWN_objective] far in life.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street urchin<br>(Grifter)
+</th>
+<td>After running away from home, [PAWN_nameDef] had to live on the streets.
+<p>She grew up fast, and learned early that she had to figure out how to fool people into connecting with her.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Plants: <span style="color:firebrick; font-weight:bold">−2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street urchin<br>(Street rat)
+</th>
+<td>Born to a poor family, Vonriel was a sickly child who never quite developed the strength of his siblings.
+<p>His parents, unable to afford to provide for him and certain he couldn't pay his own way, threw him to the streets. He learned hard and fast how to survive by any means necessary.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Intellectual: <span style="color:firebrick; font-weight:bold">−2</span><br>Mining: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Street urchin<br>(Urchin)
+</th>
+<td>Born to a poor family on an urbworld, [PAWN_nameDef] was abandoned on the streets at a young age.
+<p>He learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in his life.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Student engineer<br>(Engineer)
+</th>
+<td>A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.
+<p>One day, he tried to befriend a squirrel by giving it a bracelet. The squirrel bit him, earning him the nickname “Squirrel Boy.”
+</p><p>[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective].
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Mining: <span style="color:firebrick; font-weight:bold">−2</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−2</span><br>Artistic: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Student socialite<br>(Socialite)
+</th>
+<td>Matis learned politics in an elite training school for socially gifted students on Kalthas IV.
+<p>While he was naturally adept at reading and manipulating people, he found no joy in it. He left the academy several years before graduation.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+6</span>
+</td>
+<td>Dumb labor<br>Skilled labor<br>Caring<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Student<br>(Student)
+</th>
+<td>[PAWN_nameDef] studied chemistry and quantum mechanics for entertainment.
+<p>[PAWN_pronoun] was very good at convincing others to do his physical work, and made it a goal in life to avoid manual labor.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Mining: <span style="color:firebrick; font-weight:bold">−2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Cleaning<br>Hauling
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Super soldier<br>(Soldier)
+</th>
+<td>[PAWN_nameDef]'s government ran an experimental super-soldier development program. They kidnapped thousands of infants, conditioned their minds with drugs and machines, and trained them to fight.
+<p>Most infants died, but [PAWN_nameDef] did not. He killed his first man at age six, and was fighting in field operations not long after.
+</p>
+</td>
+<td>Plants: <span style="color:firebrick; font-weight:bold">−3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Social<br>Animals<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tech enthusiast<br>(Tech nerd)
+</th>
+<td>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tech scholar<br>(Scholar)
+</th>
+<td>[PAWN_nameDef] was a youth scholar of the world of science and technology.
+<p>[PAWN_pronoun] strived every day to expand his intellectual abilities.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+5</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Caring<br>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tech-head<br>(Tech-head)
+</th>
+<td>Standing on the ship hull with his father in an child-size EVA suit, [PAWN_nameDef] loved space from a young age.
+<p>[PAWN_pronoun] was put in a Civil Academics Program. While pretending to be like [PAWN_possessive] father, [PAWN_pronoun] spent [PAWN_possessive] time taking care of plants in [PAWN_possessive] messy room. [PAWN_possessive] nickname was given for [PAWN_possessive] love of circles.
+</p>
+</td>
+<td>Plants: <span style="color:forestgreen; font-weight:bold">+2</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+6</span><br>Social: <span style="color:firebrick; font-weight:bold">−1</span>
+</td>
+<td>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Technical kid<br>(Tech kid)
+</th>
+<td>[PAWN_nameDef] loved nothing more then to forget the world around [PAWN_objective] and focus on the task at hand.
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Test subject<br>(Subject)
+</th>
+<td>Test subject #11,529,914 of experiment #56,048 spent her childhood in white rooms performing mental and physical tests.
+<p>Her only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Social<br>Plant work<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tinkerer<br>(Tinkerer)
+</th>
+<td>[PAWN_nameDef] grew up on a scrap-heap of a planet - the garbage dump of other planets in the system. He learned to make new machines from the dead parts of old ones. With some friends, he eventually escaped on a salvaged and repaired ship.
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tinkerer<br>(Tinkerer)
+</th>
+<td>[PAWN_nameDef] spent [PAWN_possessive] spare time creating things from his imagination out of scrap metal and discarded machinery.
+<p>[PAWN_pronoun] created simple robots and small tools, for both for fun and for utility.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Toxic child<br>(Toxic)
+</th>
+<td>Growing up on a an Industrial planet, [PAWN_nameDef] started working in a chemical plant at age of six. Years of exposure to industrial toxins left him mentally scarred.
+<p>He eventually blew up the facility and escaped the planet in a stolen cargo ship.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Firefighting<br>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Traders' child<br>(Trader)
+</th>
+<td>[PAWN_nameDef] grew up in a family of nomadic traders, making a living from selling and buying goods on many worlds.
+<p>[PAWN_nameDef] learned the customs and methods of trade of many cultures by participating in his parents' business.
+</p>
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−2</span><br>Plants: <span style="color:firebrick; font-weight:bold">−1</span><br>Social: <span style="color:forestgreen; font-weight:bold">+1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tragic loner<br>(Loner)
+</th>
+<td>[PAWN_nameDef] was involved in a traumatic accident that resulted in [PAWN_objective] killing [PAWN_possessive] own family.
+<p>Cast out from society, [PAWN_pronoun] was left with only [PAWN_possessive] animal companions and several engineering textbooks to keep [PAWN_objective] company.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Artistic: <span style="color:firebrick; font-weight:bold">−2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Trainee alchemist<br>(Alchemist)
+</th>
+<td>[PAWN_nameDef] grew up on a medieval world. He learned the basics of alchemy and medicine in one the few monastic schools on his planet.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Transfer student<br>(Student)
+</th>
+<td>A midworld child, [PAWN_nameDef]'s wealthy parents sent [PAWN_objective] to a nearby glitterworld to receive a better education.
+<p>[PAWN_nameDef] was a talented student. However, due to his family's wealth, [PAWN_pronoun] never had to do dumb labor.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Traumatized youth<br>(Trauma)
+</th>
+<td>[PAWN_nameDef] lived on a pleasant midworld.
+<p>[PAWN_possessive] prosthophobe mother fell sick with heart disease. In desperation, [PAWN_nameDef]'s father abducted innocent people and harvested their hearts. [PAWN_nameDef]'s father was arrested, but the child remained scarred from the experience.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Tribal thunderer<br>(Thunderer)
+</th>
+<td>Years ago, [PAWN_nameDef]'s tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select a child born under superstitious circumstances and assign them the honour of bearing one to defend the village. [PAWN_nameDef] is such a child.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+5</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Intellectual<br>Artistic<br>Crafting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Turtle herder<br>(Herder)
+</th>
+<td>Born to settler folk, [PAWN_nameDef]'s family' had a beloved herd of turtles, who protected them by absorbing shots from raiders.
+<p>At a young age, [PAWN_pronoun] was entrusted with the turtles. [PAWN_pronoun] bred them, successfully - too successfully. The massive turtle herds consumed every food source and destroyed the local ecosystem.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+1</span><br>Artistic: <span style="color:firebrick; font-weight:bold">−2</span><br>Animals: <span style="color:forestgreen; font-weight:bold">+5</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Upper urbworlder<br>(High urber)
+</th>
+<td>[PAWN_nameDef] had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, [PAWN_pronoun] spent most of [PAWN_possessive] time reading or drawing the cityscape he saw through [PAWN_possessive] window.
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−3</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Urbworld army brat<br>(Army brat)
+</th>
+<td>[PAWN_nameDef] grew up on an urbworld military base. [PAWN_pronoun] was too young to fight, but [PAWN_pronoun] learned to make [PAWN_objective]self useful in other ways.
+<p>[PAWN_pronoun] became familiar with guns and military equipment, but never really got in touch with the natural world.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+3</span><br>Plants: <span style="color:firebrick; font-weight:bold">−3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Urbworld criminal<br>(Criminal)
+</th>
+<td>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
+<p>Robbery and murder were daily activities for him. Vladimir learned that surviving was winning.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Urbworld hooligan<br>(Hooligan)
+</th>
+<td>[PAWN_nameDef] grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Urbworld urchin<br>(Urchin)
+</th>
+<td>Abandoned among the filthy concrete spires, [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_pronoun] never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes [PAWN_pronoun] lied, cheated, and stole to survive.
+</td>
+<td>Mining: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic<br>Crafting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Urbworld urchin<br>(Urchin)
+</th>
+<td>Meredith was born in the darkest slums of her urban homeworld. Neglected by her mother, she learned to survive on her own, battling for every scrap of food she saw.
+<p>Eventually, as her talents exceeded her peers, she ascended from the depths to the surface streets and left her mother behind.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+4</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Vatgrown assassin<br>(Clone)
+</th>
+<td>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Caring<br>Artistic<br>Cooking<br>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Vatgrown medic<br>(Medic)
+</th>
+<td>Raised to be a combat medic, [PAWN_nameDef] was trained in firearms as well as medicine. His favorite phrase when coming upon a wounded soldier was "Life or death?" Most chose life.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Social<br>Artistic<br>Crafting<br>Cooking
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Vatgrown scientist<br>(Scientist)
+</th>
+<td>[PAWN_nameDef] was grown to be a perfect scientist, with a mind perfectly tuned for physics and chemistry.
+<p>[PAWN_possessive] creators used [PAWN_objective] as a teaching aid on mind design, hoping [PAWN_pronoun] would eventually grow to be a great mind and continue their research.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+5</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Vatgrown slavegirl<br>(Slave girl)
+</th>
+<td>Emmie was vat-grown as a slave in an illegal urbworld laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.
+</td>
+<td>Cooking: <span style="color:forestgreen; font-weight:bold">+5</span><br>Artistic: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>Intellectual<br>Violent
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Video gamer<br>(Gamer)
+</th>
+<td>[PAWN_nameDef] grew up on a midworld, mostly locked in [PAWN_possessive] room, playing video games. [PAWN_pronoun] was warm-hearted, with a deep fondness for animals.
+<p>As [PAWN_pronoun] grew up, [PAWN_pronoun] turned to drugs to enhance his reality. During these trying times [PAWN_pronoun] found passion and refuge in the gym.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Video gamer<br>(Gamer)
+</th>
+<td>Ryan was raised in a glitterworld. Everything he wanted came to him. In school he was a social butterfly. At home, he spent his time looking up the newest gadgets and playing his favourite video games.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Vidtube star<br>(Vidtuber)
+</th>
+<td>[PAWN_nameDef]'s hobby was making videos for the popular video sharing service Vidtube. [PAWN_pronoun] made everything from video game reviews to pasta cooking guides.
+<p>[PAWN_pronoun] gained a over a million followers.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Voyager child<br>(Voyager)
+</th>
+<td>[PAWN_nameDef] was raised on an R&amp;D starship, and spent most of [PAWN_possessive] childhood travelling through the void.
+<p>Approaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>VR addict<br>(VR addict)
+</th>
+<td>Douglas was a VR head - someone who is permanently jacked into the virtual gaming universe by his spinal plug. He moved through his daily tasks barely aware of the physical reality around him. This left him nearly unable to socialize.
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+1</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+1</span><br>Artistic: <span style="color:forestgreen; font-weight:bold">+1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+1</span>
+</td>
+<td>Social
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>War child<br>(War child)
+</th>
+<td>Mushinto's parents were drafted into a civil war in his home country. Growing up surrounded by fighting and death, he became well-accustomed to tragedy and tough as nails. His expressive side, however, never developed.
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+5</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Caring<br>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>War refugee<br>(Refugee)
+</th>
+<td>A war broke on out [PAWN_nameDef]'s home planet.
+<p>Gathering what little food and belongings they could, [PAWN_nameDef] and his father stole a ship and escaped into space.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+5</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+6</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+5</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>Social<br>Artistic<br>Plant work
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Wasteland wanderer<br>(Wanderer)
+</th>
+<td>Born into a wealthy family on a desert world, [PAWN_nameDef] was cast out after a hired attack squad destroyed his ancestral home.
+<p>The boy managed to hide in a cooling duct beneath his family's villa. Vowing revenge against the killers and whomever had hired them, Lucas struck out into the wasteland, alone.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Social: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+5</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Wealthy student<br>(Student)
+</th>
+<td>[PAWN_nameDef] was born on a wealthy glitterworld. [PAWN_pronoun] studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.
+<p>[PAWN_nameDef] grew up in clean, sterile environments. [PAWN_pronoun] never saw a farm or livestock.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Plants: <span style="color:firebrick; font-weight:bold">−2</span><br>Intellectual: <span style="color:forestgreen; font-weight:bold">+4</span><br>Mining: <span style="color:firebrick; font-weight:bold">−2</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+3</span>
+</td>
+<td>Animals<br>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Wild child<br>(Wild child)
+</th>
+<td>[PAWN_nameDef] was abandoned on a toxic world overgrown with hostile plant life. [PAWN_pronoun] became accustomed early to the cold burn of loneliness.
+<p>[PAWN_pronoun] learned to fight, but ate his food raw and uncooked.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+4</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+6</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span><br>Cooking: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>Intellectual<br>Caring<br>Artistic<br>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Winerunner<br>(Winerunner)
+</th>
+<td>Abandoned by his parents, [PAWN_nameDef] was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.
+<p>The monks taught him discipline and hard work. In return, [PAWN_pronoun] would go into the city and 'acquire' exotic wines for the monks' nightly tastings.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Cooking: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Wolf pack member<br>(Feral)
+</th>
+<td>[PAWN_nameDef] was discarded by [PAWN_possessive] family. Raised by wolves, [PAWN_pronoun] ran, hunted, and defended [PAWN_possessive] pack.
+<p>[PAWN_pronoun] learned to fight efficiently by tooth and claw. [PAWN_pronoun] also learned brutally effective primal hunting strategies.
+</p>
+</td>
+<td>Melee: <span style="color:forestgreen; font-weight:bold">+8</span><br>Social: <span style="color:firebrick; font-weight:bold">−3</span>
+</td>
+<td>Firefighting
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Work camp slave<br>(Slave)
+</th>
+<td>[PAWN_nameDef] grew up as a slave to a particularly nasty noble family on a medieval world.
+<p>While he received no formal education, the harsh labor regimen made his body strong.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Plants: <span style="color:forestgreen; font-weight:bold">+2</span><br>Mining: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:firebrick; font-weight:bold">−2</span>
+</td>
+<td>Intellectual
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>World slider<br>(Slider)
+</th>
+<td>[PAWN_nameDef] was raised by a world-hopping band of criminals. [PAWN_pronoun] learned not to leave evidence of his presence in case the group had to leave in a hurry. [PAWN_pronoun] also learned about medicine and hand-to-hand combat from his fellow criminals.
+</td>
+<td>Construction: <span style="color:firebrick; font-weight:bold">−2</span><br>Plants: <span style="color:firebrick; font-weight:bold">−2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+3</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Young master<br>(Master)
+</th>
+<td>Born to two medics, [PAWN_nameDef] longed for power. [PAWN_possessive] keen intellect and charisma helped [PAWN_objective] gain the respect of [PAWN_possessive] peers.
+<p>Deciding that the best way to gain power was to climb the ranks of the imperial military, [PAWN_pronoun] joined at the youngest possible age.
+</p>
+</td>
+<td>Intellectual: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+1</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Dumb labor
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Young pirate<br>(Pirate)
+</th>
+<td>[PAWN_nameDef] was born to pirates, in a dirty metal room that smelled of motor oil.
+<p>[PAWN_pronoun] was never exactly taught anything, but [PAWN_pronoun] still learned the ways of survival, barter, and combat.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Social: <span style="color:forestgreen; font-weight:bold">+2</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>None
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Young psychologist<br>(Psych)
+</th>
+<td>[PAWN_nameDef] was born and raised on a poor midworld, in the front passenger seat of [PAWN_possessive] mother's cab.
+<p>Watching pedestrians and listening to the taxi passengers all day long, [PAWN_pronoun] soon became very good at figuring out someone's real purpose.
+</p>
+</td>
+<td>Social: <span style="color:forestgreen; font-weight:bold">+4</span><br>Medicine: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Youth delinquent<br>(Delinquent)
+</th>
+<td>[PAWN_nameDef] was the only child of celebrity sommeliers. Her parents expected her to take up the family profession, but after her third admission to a youth detention center, this career path became unlikely.
+<p>While in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in orinthology.
+</p>
+</td>
+<td>Shooting: <span style="color:forestgreen; font-weight:bold">+3</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+1</span><br>Social: <span style="color:firebrick; font-weight:bold">−1</span><br>Crafting: <span style="color:forestgreen; font-weight:bold">+4</span>
+</td>
+<td>Caring<br>Artistic<br>Cleaning
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Youth soldier<br>(Soldier)
+</th>
+<td>[PAWN_nameDef] was born into a long line of soldiers. He followed that heritage, joining a military training program.
+<p>He excelled in all physical training programs in his Marine course, and even passed most of the intellectual exams. While he was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Hauling<br>Mining
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+<tr>
+<th>Youth soldier<br>(Soldier)
+</th>
+<td>Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.
+<p>[PAWN_pronoun] excelled in physical training, and even passed most of the intellectual exams. While [PAWN_pronoun] was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering.
+</p>
+</td>
+<td>Construction: <span style="color:forestgreen; font-weight:bold">+2</span><br>Shooting: <span style="color:forestgreen; font-weight:bold">+2</span><br>Melee: <span style="color:forestgreen; font-weight:bold">+2</span>
+</td>
+<td>Artistic
+</td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x"></td>
+<td><img alt="Ex.png" src="/images/thumb/9/9e/Ex.png/24px-Ex.png" decoding="async" width="24" height="24" srcset="/images/9/9e/Ex.png 1.5x">
+</td></tr>
+</tbody><tfoot></tfoot></table>
